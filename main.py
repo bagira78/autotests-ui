@@ -3,4 +3,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    a=10
+    a=100
